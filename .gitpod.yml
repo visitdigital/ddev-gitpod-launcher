@@ -1,8 +1,4 @@
 image: drud/ddev-gitpod-base:20230310
-
-additionalRepositories:
-  - url: https://github.com/visitdigital/gl23
-    checkoutLocation: ddev-gitpod-launcher/ddev-pull-wp-scripts/wp-content/plugins
     
 tasks:
   - name: ddev-gitpod-launcher
